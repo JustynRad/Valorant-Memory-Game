@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Valorant-Memory-Game/static/css/main.e30c1a5d.chunk.css",
+    "main.js": "/Valorant-Memory-Game/static/js/main.9201ae8b.chunk.js",
+    "main.js.map": "/Valorant-Memory-Game/static/js/main.9201ae8b.chunk.js.map",
+    "runtime-main.js": "/Valorant-Memory-Game/static/js/runtime-main.4d74727c.js",
+    "runtime-main.js.map": "/Valorant-Memory-Game/static/js/runtime-main.4d74727c.js.map",
+    "static/js/2.690640c1.chunk.js": "/Valorant-Memory-Game/static/js/2.690640c1.chunk.js",
+    "static/js/2.690640c1.chunk.js.map": "/Valorant-Memory-Game/static/js/2.690640c1.chunk.js.map",
+    "index.html": "/Valorant-Memory-Game/index.html",
+    "static/css/main.e30c1a5d.chunk.css.map": "/Valorant-Memory-Game/static/css/main.e30c1a5d.chunk.css.map",
+    "static/js/2.690640c1.chunk.js.LICENSE.txt": "/Valorant-Memory-Game/static/js/2.690640c1.chunk.js.LICENSE.txt",
+    "static/media/astra.48e16b9b.jpeg": "/Valorant-Memory-Game/static/media/astra.48e16b9b.jpeg",
+    "static/media/brimstone.f341d571.jpeg": "/Valorant-Memory-Game/static/media/brimstone.f341d571.jpeg",
+    "static/media/cypher.1c48ac97.jpeg": "/Valorant-Memory-Game/static/media/cypher.1c48ac97.jpeg",
+    "static/media/jett.45c24715.jpeg": "/Valorant-Memory-Game/static/media/jett.45c24715.jpeg",
+    "static/media/killjoy.f89a1727.jpeg": "/Valorant-Memory-Game/static/media/killjoy.f89a1727.jpeg",
+    "static/media/omen.8364cd7f.jpeg": "/Valorant-Memory-Game/static/media/omen.8364cd7f.jpeg",
+    "static/media/phoenix.9cf21321.jpeg": "/Valorant-Memory-Game/static/media/phoenix.9cf21321.jpeg",
+    "static/media/raze.08be7b16.jpeg": "/Valorant-Memory-Game/static/media/raze.08be7b16.jpeg",
+    "static/media/reyna.76b39933.jpeg": "/Valorant-Memory-Game/static/media/reyna.76b39933.jpeg",
+    "static/media/sage.7d6a92ca.jpeg": "/Valorant-Memory-Game/static/media/sage.7d6a92ca.jpeg",
+    "static/media/skype.1ffcd692.jpeg": "/Valorant-Memory-Game/static/media/skype.1ffcd692.jpeg",
+    "static/media/sova.ab632550.jpeg": "/Valorant-Memory-Game/static/media/sova.ab632550.jpeg",
+    "static/media/val-log.155584f8.png": "/Valorant-Memory-Game/static/media/val-log.155584f8.png",
+    "static/media/viper.6104e5e1.jpeg": "/Valorant-Memory-Game/static/media/viper.6104e5e1.jpeg",
+    "static/media/yoru.be417d7c.jpeg": "/Valorant-Memory-Game/static/media/yoru.be417d7c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d74727c.js",
+    "static/js/2.690640c1.chunk.js",
+    "static/css/main.e30c1a5d.chunk.css",
+    "static/js/main.9201ae8b.chunk.js"
+  ]
+}
