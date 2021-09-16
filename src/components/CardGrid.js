@@ -1,20 +1,21 @@
 import React, { useState } from "react";
 import Card from './Card';
 import PropTypes from 'prop-types';
-import Astra from '../images/astra.jpeg'
-import Brimstone from '../images/brimstone.jpeg'
-import Cypher from '../images/cypher.jpeg'
-import Jett from '../images/jett.jpeg'
-import KillJoy from '../images/killjoy.jpeg'
-import Omen from '../images/omen.jpeg'
-import Phoenix from '../images/phoenix.jpeg'
-import Raze from '../images/raze.jpeg'
-import Reyna from '../images/reyna.jpeg'
-import Sage from '../images/sage.jpeg'
-import Skye from '../images/skype.jpeg'
-import Sova from '../images/sova.jpeg'
-import Viper from '../images/viper.jpeg'
-import Yoru from '../images/yoru.jpeg'
+import Astra from '../images/astra.jpeg';
+import Brimstone from '../images/brimstone.jpeg';
+import Cypher from '../images/cypher.jpeg';
+import Jett from '../images/jett.jpeg';
+import KillJoy from '../images/killjoy.jpeg';
+import Omen from '../images/omen.jpeg';
+import Phoenix from '../images/phoenix.jpeg';
+import Raze from '../images/raze.jpeg';
+import Reyna from '../images/reyna.jpeg';
+import Sage from '../images/sage.jpeg';
+import Skye from '../images/skype.jpeg';
+import Sova from '../images/sova.jpeg';
+import Viper from '../images/viper.jpeg';
+import Yoru from '../images/yoru.jpeg';
+import './CardGrid.css';
 
 const CardGrid = (props) => {
     const cards = [
@@ -30,8 +31,8 @@ const CardGrid = (props) => {
        {image: Sage, name: 'Sage'},
        {image: Skye, name: 'Skye'},
        {image: Sova, name: 'Sova'},
-       {image: Viper, name: 'Viper'},
-       {image: Yoru, name: 'Yoru'},
+    //    {image: Viper, name: 'Viper'},
+    //    {image: Yoru, name: 'Yoru'},
     ];
 
     const [positions, setPositions] = useState(

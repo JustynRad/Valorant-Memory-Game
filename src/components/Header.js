@@ -1,21 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import ValLogo from '../images/val-log.png';
+import './Header.css'
 
 const Header = (props) => {
     return (
         <div id="header">
-            <div id="header-left-section">
-                <div id="header-title">
-                    <h1>Agent Memory Game</h1>
-                </div>
-                <span>
-                    Get points by click on an image once!
-                </span>
+            <div id="header-title">
+                <h1>Valorant Memory</h1>
             </div>
-            <div id="header-right-section">
-                <span>Score: {props.score}</span>
-                <span>Best Score: {props.bestScore}</span>
-            </div>
+            <p>Get points by clicking on an image once!</p>
+            <span>Score: {props.score} Best Score: {props.bestScore}</span>
         </div>
     );
 };
